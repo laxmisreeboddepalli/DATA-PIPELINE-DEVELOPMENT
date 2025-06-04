@@ -1,0 +1,5 @@
+age,income,gender,city,target
+25,50000,Male,Delhi,1
+35,,Female,Mumbai,0
+29,48000,Female,Chennai,1
+30,55000,Male,Delhi,0
